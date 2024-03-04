@@ -1,4 +1,4 @@
-# Atividade 1 - Introdução
+# Sistemas Operacionais - Grupo
 
 Alunos:
 * Eduardo Honorio Friaca - RA: 10408959
