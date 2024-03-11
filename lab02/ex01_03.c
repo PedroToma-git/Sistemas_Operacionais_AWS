@@ -3,7 +3,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 #include <sys/wait.h>
-#define BUFFER_SIZE 4  // buffer size for read(0 and write()
+#define BUFFER_SIZE 4  // buffer size for read() and write()
 
 int value = 5;
 
