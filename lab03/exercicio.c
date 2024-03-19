@@ -8,9 +8,6 @@
 #include <stdio.h>
 #include <pthread.h>
 
-// 64kB stack
-#define FIBER_STACK 1024*64
-
 // The child thread will execute this function
 void *threadFunction ( void *var )
 {
